@@ -1,6 +1,6 @@
 ### **Descrição do Projeto: Análise da Desigualdade no Acesso à Água Tratada no Brasil**
 
-Este projeto de pesquisa aplicada investiga as disparidades regionais e socioeconômicas no acesso a serviços de abastecimento de água tratada no Brasil. [cite_start]O trabalho está alinhado ao objetivo do IPEA de avaliar políticas públicas essenciais ao desenvolvimento do país.
+Este projeto de pesquisa aplicada investiga as disparidades regionais e socioeconômicas no acesso a serviços de abastecimento de água tratada no Brasil. O trabalho está alinhado ao objetivo do IPEA de avaliar políticas públicas essenciais ao desenvolvimento do país.
 
 O desenvolvimento do projeto envolve um ciclo completo de ciência de dados, com as seguintes atividades principais:
 
