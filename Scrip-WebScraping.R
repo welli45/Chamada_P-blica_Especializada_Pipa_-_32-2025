@@ -210,6 +210,7 @@ evolucao_uf_tabela_gt <- evolucao_uf_tabela %>%
   )
 # salvar em pdf
 gtsave(evolucao_uf_tabela_gt, "tabelas/evolucao_percentual_municipios_tratamento_agua_por_uf.pdf")
+<<<<<<< HEAD
 
 
 # Mapa coropleth para visualização do percentual de municípios com tratamento de água por UF
